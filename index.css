@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding:0;
+  background:  #ffff99;
+}
+h1{
+  background: white;
+  padding:10px;
+  padding-bottom: 0px;
+}
+h2{
+  background: white;
+  padding:10px;
+
+}
+div{
+  color:blue;
+  padding:10px;
+  display: inline-block;
+  justify-content: center;
+}
+img{
+    padding:10px;
+    display: inline-block;
+}
